@@ -1,5 +1,5 @@
 # E.h
-A C header that includes preprocessors defining everything to the letter "E" for better readability.
+A C header that includes preprocessors aliasing everything to the letter "E" for better readability.
 
 ### Setup
 To set up the program, download `e.h` and place it in the directory of your C program. Alternatively, copy all of the code from `e.h` and paste it into your own file.
